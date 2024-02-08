@@ -1,4 +1,6 @@
-package main.java;
+package main;
+
+import main.HomeworkTask;
 
 public class Task1 {
 
